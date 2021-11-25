@@ -20,11 +20,11 @@ Hosted on [Vercel](https://vercel.com)
 - [react](https://reactjs.org/)
 - [next](https://nextjs.org/)
 - [react-icons](https://react-icons.github.io/react-icons/)
-- [marked](https://react-icons.github.io/react-icons/)
-- [gray-matter](https://react-icons.github.io/react-icons/)
-- [husky](https://react-icons.github.io/react-icons/)
-- [tailwind](https://react-icons.github.io/react-icons/)
-- [postcss](https://react-icons.github.io/react-icons/)
+- [marked](https://github.com/markedjs/marked)
+- [gray-matter](https://github.com/jonschlinkert/gray-matter)
+- [husky](https://github.com/typicode/husky)
+- [tailwind](https://tailwindcss.com/)
+- [postcss](https://postcss.org/)
 
 ## Screenshots
 
