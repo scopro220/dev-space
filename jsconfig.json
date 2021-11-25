@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": ["components/*"],
+      "@/config/*": ["config/*"],
+      "@/utils/*": ["utils/*"]
+    }
+  }
+}
+
+// Module aliases for components and general config files
