@@ -33,7 +33,7 @@ ol {
 }
 
 /* Fix category colors in production */
-/* .bg-yellow-600 {
+.bg-yellow-600 {
   background-color: #d97705;
 }
 .bg-blue-600 {
@@ -47,4 +47,4 @@ ol {
 }
 .bg-red-600 {
   background-color: #a70b34;
-} */
+}
